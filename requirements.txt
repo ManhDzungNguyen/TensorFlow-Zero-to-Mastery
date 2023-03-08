@@ -16,3 +16,4 @@ seaborn
 networkx
 gspread
 pendulum
+scikit-learn
