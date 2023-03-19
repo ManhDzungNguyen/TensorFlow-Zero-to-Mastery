@@ -1,12 +1,14 @@
 tensorflow==2.9.0
 tensorflow-datasets==4.6.0
 tensorflow-probability==0.17.0
+scikit-learn==1.2.1
 Pillow==9.1.1
 pandas==1.4.2
 numpy==1.22.4
 scipy==1.7.3
 graphviz==2.50.0
 pydot==1.4.2
+opencv-python==4.7.0.72
 ipython
 ipykernel
 jupyter
@@ -18,4 +20,3 @@ seaborn
 networkx
 gspread
 pendulum
-scikit-learn
