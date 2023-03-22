@@ -1,4 +1,0 @@
-conda create -n "ds_ai" python=3.9.16
-pip install -r path/to/requirements.txt
-conda install -c conda-forge cudatoolkit=11.8 cudnn
-conda install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 pytorch-cuda=11.6 -c pytorch -c nvidia
