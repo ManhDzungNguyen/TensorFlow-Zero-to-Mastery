@@ -1,4 +1,4 @@
 conda create -n "tensorflow" python=3.8
 conda activate tensorflow
-pip install -r "C:\Users\Admin\Documents\TensorFlow-Zero-to-Mastery\requirements_backup.txt"
+pip install -r "C:\Users\Admin\Documents\TensorFlow-Zero-to-Mastery\requirements.txt"
 conda install -c conda-forge cudatoolkit=11.7 cudnn

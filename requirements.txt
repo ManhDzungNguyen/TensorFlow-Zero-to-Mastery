@@ -17,3 +17,5 @@ tensorflow-datasets==4.6.0
 tensorflow-probability==0.17.0
 gspread==3.4.2
 pendulum==2.1.2
+telebot
+telethon
