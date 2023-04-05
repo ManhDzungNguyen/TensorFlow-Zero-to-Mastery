@@ -7,3 +7,4 @@
 
 .vscode/
 **/_pycache__/
+**/model_logs/
